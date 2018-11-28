@@ -10,4 +10,4 @@ echo "gitlog1";
 echo "gitlog2";
 echo "gitlog3";
 echo "gitlog4";
-echo "gitlog5":
+echo "gitlog5改成遴选";
